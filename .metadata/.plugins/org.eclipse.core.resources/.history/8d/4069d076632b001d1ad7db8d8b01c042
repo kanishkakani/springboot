@@ -1,0 +1,5 @@
+package com.example.ecommwebapp.dto;
+
+public class Product {
+
+}

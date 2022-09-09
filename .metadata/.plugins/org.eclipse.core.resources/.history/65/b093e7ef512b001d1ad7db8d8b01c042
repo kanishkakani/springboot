@@ -1,0 +1,5 @@
+package com.example.ecommwebapp.entity;
+
+public class ShoppingCart {
+
+}

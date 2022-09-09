@@ -1,0 +1,10 @@
+package com.example.ecommwebapp.controllers;
+
+import org.springframework.stereotype.Controller;
+
+@Controller("/cart")
+public class ShoppingCartController {
+    public String showAddCartPage() {
+    	return "showAddCart";
+    }
+}
