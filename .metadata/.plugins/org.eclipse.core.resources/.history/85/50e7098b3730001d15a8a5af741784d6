@@ -1,5 +1,0 @@
-package com.example.springkafkaproducer.controller;
-
-public class KafkaProducerController {
-
-}

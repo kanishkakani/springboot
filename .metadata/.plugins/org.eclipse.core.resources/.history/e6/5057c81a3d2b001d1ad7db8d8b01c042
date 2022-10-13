@@ -1,6 +1,0 @@
-package com.example.productservice.controllers;
-
-@RestController
-public class ProductController {
-
-}

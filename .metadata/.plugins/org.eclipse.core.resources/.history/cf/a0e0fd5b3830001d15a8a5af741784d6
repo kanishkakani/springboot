@@ -1,5 +1,0 @@
-package com.example.springkafkaconsumer;
-
-public class KafkaConsumerConfig {
-
-}

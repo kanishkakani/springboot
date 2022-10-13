@@ -1,5 +1,0 @@
-package com.example.ecommwebapp.repository;
-
-public interface ShoppingCartRepository {
-
-}

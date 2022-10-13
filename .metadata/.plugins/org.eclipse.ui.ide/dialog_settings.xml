@@ -6,6 +6,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\KANISHKA P\Downloads\m-aadhar-application-main\m-aadhar-application-main\MyApp"/>
+			<item value="C:\Users\KANISHKA P\Downloads\Restweb\Restweb"/>
 			<item value="C:\Users\KANISHKA P\Downloads\OnlineQuizPortal-REST\OnlineQuizPortal-REST"/>
 			<item value="C:\Users\KANISHKA P\Downloads\SpringSecurityManager-master\SpringSecurityManager-master"/>
 			<item value="C:\Users\KANISHKA P\Downloads\Authentication-master (2)\Authentication-master"/>
